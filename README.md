@@ -1,16 +1,22 @@
-# sukoon
+# Sukoon
 
-A new Flutter project.
+A system that reads brain signals of patients through MUSE, translating them into understandable emotions for healthcare providers, enhancing communication and care for individuals unable to express their needs.
+
+**Sukoon** is an innovative solution designed to assist individuals who face challenges in expressing their emotions and needs, such as those with complete paralysis and an inability to speak. The system uses brain signals, read through the MUSE device, and translates them into understandable emotions for healthcare providers.
+
+## Features
+
+- **Brain Signal Translation**: Converts brain signals into emotions using the MUSE device.
+- **Dedicated Application**: Provides a platform for healthcare providers to understand patients' needs in real-time.
+- **Doctor Consultation Website**: Allows caregivers to consult doctors remotely, and for doctors to access patient data and medical history.
+- **Improves Communication and Care**: Enhances the quality of life for patients by enabling effective communication with caregivers and healthcare providers.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+### Prerequisites
 
-A few resources to get you started if this is your first Flutter project:
+- A MUSE device for capturing brain signals.
+- Access to the Sukoon application.
+- Internet connection for remote consultations.
+- MindMonitor Application
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
