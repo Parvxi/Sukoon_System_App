@@ -20,3 +20,6 @@ A system that reads brain signals of patients through MUSE, translating them int
 - Internet connection for remote consultations.
 - MindMonitor Application
 
+[Watch the video on YouTube](https://www.youtube.com/watch?v=kxpMquB86Bw)
+
+
