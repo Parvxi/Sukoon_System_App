@@ -22,4 +22,12 @@ A system that reads brain signals of patients through MUSE, translating them int
 
 [Watch the video on YouTube](https://www.youtube.com/watch?v=kxpMquB86Bw)
 
+![Alt text](./assest/images/1.png)
+![Alt text](./assest/images/2.png)
+![Alt text](./assest/images/3.png)
+![Alt text](./assest/images/4.png)
+![Alt text](./assest/images/5.png)
+![Alt text](./assest/images/6.png)
+
+
 
